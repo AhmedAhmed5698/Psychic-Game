@@ -1,0 +1,44 @@
+
+  body {
+    background-color: rebeccapurple;
+    font-family: sans-serif;
+    background-image: url(../images/baccckground.jpeg);
+  
+   
+  }
+  .container{
+    width:960px;
+    height:600px;
+    border: solid 1px rebeccapurple;
+    margin: auto;
+    margin-top:20px;
+  }
+  p{
+    font-size :20px;
+    margin-bottom: 20px;
+  }
+
+
+  #instruction {
+    /* color: teal; */
+    margin-bottom: 28px;
+  }
+
+  #resultTally {
+    color:red;
+    font-size: 20px;
+  }
+
+footer {
+    clear: both;
+    overflow: auto;
+    background: #666666;
+    color: white;
+    text-align: center;
+    padding-bottom: 5px;
+    border-top: 4px solid purple;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    }
